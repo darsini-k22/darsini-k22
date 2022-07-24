@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **darsinik22@outlook.com**
 
-- ⚡ Fun fact **I feel sleepy even after I sleeping for an entire day.**
+- ⚡ Fun fact **I feel sleepy even after sleeping for an entire day.**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
