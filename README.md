@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on Mr.Bill Gates
 - 🤔 I’m looking for help with anyone who is curious about knowing new stuffs.
 - 💬 Ask me about anything if i am not sure i will learn it and let you know.
-- 📫 How to reach me: darsinik22@outlook.com, <a href="https://www.linkedin.com/in/darsini-kabilan-73ab1923a">Linkdin</a>
+- 📫 How to reach me: <a href="darsinik22@outlook.com">Outlook</a>, <a href="https://www.linkedin.com/in/darsini-kabilan-73ab1923a">Linkdin</a>
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I would feel sleepy even if i have slept all the day.
 
