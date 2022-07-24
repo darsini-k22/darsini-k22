@@ -1,21 +1,50 @@
 
-
-<!--
-**darsini-k22/darsini-k22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://www.linkpicture.com/q/Hi-I-am-Darsini-1.png" height="100%" width="100%" style="object-fit:contain;"/>
 </div>
-<iframe src="https://giphy.com/embed/MdA16VIoXKKxNE8Stk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rock-coding-programming-MdA16VIoXKKxNE8Stk">via GIPHY</a></p>
+<h1 align="center">Hi, There 👋</h1>
+<h3 align="center">A curious kid who wants to know about computers.</h3>
 
-- 🔭 I’m currently working on todo app
-- 🌱 I’m currently learning React, Java
-- 👯 I’m looking to collaborate on Mr.Bill Gates
-- 🤔 I’m looking for help with anyone who is curious about knowing new stuffs.
-- 💬 Ask me about anything if i am not sure i will learn it and let you know.
-- 📫 How to reach me: <a href="darsinik22@outlook.com">Outlook</a>, <a href="https://www.linkedin.com/in/darsini-kabilan-73ab1923a">Linkdin</a>
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I would feel sleepy even if i have slept all the day.
 
+
+<div align="center"><img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  width="100" alt="ghghg"/></div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=darsini-k22&label=Profile%20views&color=0e75b6&style=flat" alt="darsini-k22" /> </p>
+
+
+
+- 🔭 I’m currently working on [Todo app](https://github.com/darsini-k22/todo-app.git)
+
+- 🌱 I’m currently learning **React, Java, Spring boot**
+
+- 👨‍💻 All of my projects are available at [https://github.com/darsini-k22](https://github.com/darsini-k22)
+
+- 💬 Ask me about **anything even if I don't know about it I will learn and let you know**
+
+- 📫 How to reach me **darsinik22@outlook.com**
+
+- ⚡ Fun fact **I feel sleepy even after I sleeping for an entire day.**
+<hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/darsini04198604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darsini04198604" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/darsini-kabilan-73ab1923a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darsini-kabilan-73ab1923a" height="30" width="40" /></a>
+<a href="https://instagram.com/darsi_kabilan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darsi_kabilan" height="30" width="40" /></a>
+</p>
+<hr>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="python" width="40" height="40"/> </a> </p>
+<hr>
+
+<h2>Stats:</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darsini-k22&show_icons=true&locale=en&layout=compact&theme=radical" alt="darsini-k22" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darsini-k22&show_icons=true&locale=en&theme=radical" alt="darsini-k22" /></p>
+
+<hr>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darsini-k22&theme=radical" alt="darsini-k22" /></p>
+
+<hr>
+<h2>Trophies</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darsini-k22&theme=radical" alt="darsini-k22" /></a> </p>
