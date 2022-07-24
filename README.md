@@ -7,6 +7,8 @@
 
 
 
+
+
 <div align="center"><img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  width="100" alt="ghghg"/></div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=darsini-k22&label=Profile%20views&color=0e75b6&style=flat" alt="darsini-k22" /><div id="badges" align="center">
@@ -40,6 +42,7 @@
   <a href="https://twitter.com/Darsini04198604?t=myLEV6ahlETOwE-R1c_m-Q&s=08">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
 </div>
 <p align="left">
 <a href="https://twitter.com/darsini04198604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darsini04198604" height="30" width="40" /></a>
@@ -77,6 +80,9 @@
 <hr>
 <h2>Trophies</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darsini-k22&theme=radical" alt="darsini-k22" /></a> </p>
+
+<hr>
+<div align="center"><img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif"  alt="ghghg"/></div>
 
 
 
