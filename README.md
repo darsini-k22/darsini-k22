@@ -56,20 +56,31 @@
 <hr>
 
 <h2>Stats:</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darsini-k22&show_icons=true&locale=en&layout=compact&theme=radical" alt="darsini-k22" /></p>
 
-<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darsini-k22&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darsini-k22&show_icons=true&locale=en&theme=radical" alt="darsini-k22" /></p>
 
-<hr>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darsini-k22&theme=radical" alt="darsini-k22" /></p>
+
+<hr>
+
+<h2>Contributions</h2>
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=darsini-k22&theme=react-dark)](https://github.com/darsini-k22/github-readme-activity-graph&theme=react-dark)
 
 <hr>
 <h2>Trophies</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darsini-k22&theme=radical" alt="darsini-k22" /></a> </p>
 
-<hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darsini-k22&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
