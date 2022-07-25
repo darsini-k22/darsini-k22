@@ -41,11 +41,12 @@
   <a href="https://twitter.com/Darsini04198604?t=myLEV6ahlETOwE-R1c_m-Q&s=08">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://instagram.com/darsi_kabilan">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta Badge"/>
+  </a>
   
 </div>
 <p align="left">
-<a href="https://twitter.com/darsini04198604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darsini04198604" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/darsini-kabilan-73ab1923a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darsini-kabilan-73ab1923a" height="30" width="40" /></a>
 <a href="https://instagram.com/darsi_kabilan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darsi_kabilan" height="30" width="40" /></a>
 </p>
 <hr>
