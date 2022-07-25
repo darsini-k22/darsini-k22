@@ -76,9 +76,6 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=darsini-k22&theme=react-dark)](https://github.com/darsini-k22/github-readme-activity-graph&theme=react-dark)
 
-<hr>
-<h2>Trophies</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darsini-k22&theme=radical" alt="darsini-k22" /></a> </p>
 
 <hr>
 <div align="center"><img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif"  alt="ghghg"/></div>
