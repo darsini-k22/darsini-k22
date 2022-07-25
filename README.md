@@ -46,9 +46,7 @@
   </a>
   
 </div>
-<p align="left">
-<a href="https://instagram.com/darsi_kabilan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darsi_kabilan" height="30" width="40" /></a>
-</p>
+
 <hr>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?myquote=Experience+is+the+name+everyone+gives+to+their+mistakes.&?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
