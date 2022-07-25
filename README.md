@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://www.linkpicture.com/q/Hi-I-am-Darsini-1.png" height="100%" width="100%" style="object-fit:contain;"/>
 </div>
-<h1 align="center">Hi, There 👋</h1>
 <h3 align="center">A curious kid who wants to know about computers.<br>Studying Msc Theoretical Computer Science.</h3>
 
 
