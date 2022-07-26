@@ -73,7 +73,7 @@
 <h2>Contributions</h2>
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=darsini-k22&theme=react-dark)](https://github.com/darsini-k22/github-readme-activity-graph&theme=react-dark)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=darsini-k22)](https://github.com/darsini-k22/github-readme-activity-graph&theme=react-dark)
 
 
 <hr>
