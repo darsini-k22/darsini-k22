@@ -58,18 +58,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darsini-k22&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darsini-k22&show_icons=true&locale=en&theme=radical" alt="darsini-k22" /></p>
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darsini-k22&theme=radical" alt="darsini-k22" /></p>
-
-<hr>
-
-<h2>Contributions</h2>
-
 
 <hr>
 <div align="center"><img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif"  alt="ghghg"/></div>
