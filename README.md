@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on [Todo app](https://github.com/darsini-k22/todo-app.git)
 
-- 🌱 I’m currently learning **React, Java, Spring boot**
+- 🌱 I’m currently learning **Spring boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/darsini-k22](https://github.com/darsini-k22)
 
