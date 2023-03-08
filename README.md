@@ -1,12 +1,9 @@
 
 <div align="center">
-  <img src="https://www.linkpicture.com/q/Hi-I-am-Darsini-1.png" height="100%" width="100%" style="object-fit:contain;"/>
+  <img src="https://user-images.githubusercontent.com/75623259/223632214-0867a66e-a501-43b5-9be2-dd39316026eb.png" height="100%" width="100%" style="object-fit:contain;"/>
 </div>
-<h3 align="center">A curious kid who wants to know about computers.<br>Studying Msc Theoretical Computer Science.</h3>
-
-
-
-
+<h3 align="center">
+A curious kid who wants to know about computers.<br>Studying Msc Theoretical Computer Science.</h3>
 
 <div align="center"><img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  width="100" alt="ghghg"/></div>
 
@@ -18,7 +15,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div> </p>
-
 
 
 - 🔭 I’m currently working on [Todo app](https://github.com/darsini-k22/todo-app.git)
